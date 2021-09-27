@@ -1,0 +1,21 @@
+{
+    "name": "ragnars-theme",
+    "displayName": "ragnars-theme",
+    "description": "A Visual Studio Code theme with a variaty of colors that I've collected over the years",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ragnar's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ragnar's Theme-color-theme.json"
+            }
+        ]
+    }
+}
